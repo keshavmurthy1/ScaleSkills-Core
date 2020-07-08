@@ -28,7 +28,7 @@
               "src/styles.css"
             ],
             "scripts": [
-    "node_modules/bootstrap/dist/js/bootstrap.js"
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
@@ -122,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ScaleSkills"
+    }
+  },
+  "defaultProject": "ScaleSkills",
+  "cli": {
+    "analytics": "a1e78f83-c470-455c-9d07-24bb89ece9c8"
+  }
 }
